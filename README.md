@@ -1,5 +1,4 @@
 # Password Manager
-**Simple, efficient password manager.**
 <img src="https://cdn.discordapp.com/attachments/982359452797775892/982848489631391784/unknown.png">
 #
 ```
